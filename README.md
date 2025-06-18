@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am Computer Science student diving into the endless skies of Cloud Computing and fullstack development
+Computer Science Engineer
 
 * 🌍  I'm based in Coimbatore
 * ✉️  You can contact me at [cbsaiesh@gmail.com](mailto:cbsaiesh@gmail.com)
-* 🧠  I'm learning Cloud computing (AWS)
 * 🤝  I'm open to collaborating on Intresting projects
-* ⚡  I am BATMAN,probably everyone knows!
 
 ### Skills
 
